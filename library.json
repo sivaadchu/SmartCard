@@ -1,0 +1,20 @@
+{
+  "name": "SmartCard",
+  "keywords": "Card, emulation",
+  "description": "Smart Card allows you to use a card for user input",
+  "authors":
+  [
+    {
+      "name": "Sivakumar Adchayan",
+      "url": "https://www.github.com/sivaadchu/",
+      "maintainer": true
+    }
+  ],
+  
+  "version": "1.0",
+  "frameworks": "arduino",
+  "examples": [
+    "examples/*/*.ino",
+    "examples/*.ino"
+  ]
+}
